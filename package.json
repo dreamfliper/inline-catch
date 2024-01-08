@@ -1,0 +1,19 @@
+{
+  "name": "inline-catch",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-telegram-bot-api": "^0.64.0",
+    "prettier": "^3.1.1",
+    "ramda": "^0.29.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "latest",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
